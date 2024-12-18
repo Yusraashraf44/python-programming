@@ -14,18 +14,18 @@ car2=Car()
 car2.company="Benz"
 car2.price=1000000
 car2.color="Blue"
-print("Details of car1 is ",car2.printer())
+print("Details of car2 is ",car2.printer())
 
 car3=Car()
 car3.company="Nano"
 car3.price=100000
 car3.color="Yellow"
-print("Details of car1 is ",car3.printer())
+print("Details of car3 is ",car3.printer())
 
 car4=Car()
 car4.company="Brezza"
 car4.price=1200000
 car4.color="Grey"
-print("Details of car1 is ",car4.printer())
+print("Details of car4 is ",car4.printer())
     
 
